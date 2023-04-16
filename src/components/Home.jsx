@@ -8,7 +8,7 @@ const Home = () => {
 
     return (
         <div>
-            <h3>this is home ..... {user}</h3>
+            <h3>this is home ..... </h3>
         </div>
     );
 };
